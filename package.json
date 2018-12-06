@@ -1,0 +1,12 @@
+{
+  "name": "Discord-Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Quitcher/Discord-Bot.git",
+  "author": "Quitcher <GDquitcher@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.3.1"
+  }
+}
